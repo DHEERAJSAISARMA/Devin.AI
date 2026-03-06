@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ CodeLearnAI — Interactive Code Learning Platform
 
 AI-powered code visualizer with step-by-step execution flow, variable tracking, diff view, error detection, test generation, complexity analysis, and an AI tutor chat.
@@ -143,3 +144,7 @@ docker run -p 3000:3000 -e ANTHROPIC_API_KEY=sk-ant-... codelearn-ai
 ---
 
 Built with Next.js 14 + Anthropic Claude API
+=======
+# Devin.AI
+An AI-powered backend API built with Next.js that uses Google Gemini to analyze code and provide intelligent suggestions.
+>>>>>>> 5c964b4bcd34e66f532bda75e10093865b32e858
